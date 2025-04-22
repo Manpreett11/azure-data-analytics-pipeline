@@ -27,7 +27,7 @@ This project demonstrates an end-to-end data analytics pipeline entirely built o
 
 Include:
 - Data Factory pipeline screenshots
-- 
+-  ![Image Alt](https://github.com/Manpreett11/azure-data-analytics-pipeline/blob/ca1d8aed29849ab4023b5cc14afd828190891478/DataFactoryPipeline.png.png)
 - Databricks notebook screenshots
 - Synapse query outputs
 - Storage containers
